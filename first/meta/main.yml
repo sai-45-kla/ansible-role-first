@@ -1,0 +1,16 @@
+galaxy_info:
+  role_name: first
+  author: sai-45-kla
+  description: "A simple Ansible role to demo publishing on Galaxy"
+  license: MIT
+  min_ansible_version: 2.9
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+  galaxy_tags:
+    - demo
+    - nginx
+
+dependencies: []
+
